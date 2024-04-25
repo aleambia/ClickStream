@@ -1,0 +1,2 @@
+# ClickStream
+classification exercise
